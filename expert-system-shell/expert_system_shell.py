@@ -1,4 +1,4 @@
-# University project by Yacine Ben Haj Youssef (@YacineBenHajYoussef), for the fifth semester ML class.
+# University project by Yacine Ben Haj Youssef (@YacineBenHajYoussef), for the fifth semester AI class.
 import sys
 import os
 from tkinter import *
