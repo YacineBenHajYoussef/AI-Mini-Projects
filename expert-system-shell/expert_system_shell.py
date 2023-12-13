@@ -1,6 +1,4 @@
-# University project by Osama Bodiaf (@OsamaBodiaf), for the sixth semester AI class.
-# Dedicated to "Fishy", a "smort" fish that loves collecting data.
-
+# University project by Yacine Ben Haj Youssef (@YacineBenHajYoussef), for the fifth semester ML class.
 import sys
 import os
 from tkinter import *
